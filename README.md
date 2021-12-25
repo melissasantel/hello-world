@@ -8,19 +8,19 @@ _Ingénieure Cognitique basée à Bordeaux, France_
 **Ingénieure Cognitique** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
 
 
-**Ingénieure | Alternance**  @ [AIO](https://aio.eu/fr/) _(septembre 2019 - septembre 2020)_  
+**Ingénieure (Alternance)**  @ [AIO](https://aio.eu/fr/) _(septembre 2019 - septembre 2020)_  
 
 
-**Développeur | Stage** @ [Ullo World](https://ullo-world.fr/) _(avril 2019 - juillet 2019)_  
+**Développeur (Stage)** @ [Ullo World](https://ullo-world.fr/) _(avril 2019 - juillet 2019)_  
 
 
-**Développeur | Stage** @ [Newmips](https://www.newmips.com/) _(novembre 2018 - mars 2019)_  
+**Développeur (Stage)** @ [Newmips](https://www.newmips.com/) _(novembre 2018 - mars 2019)_  
 
 
-**Développeur | Stage** @ [Ipeos](https://www.ipeos.net/) _(juin 2018 - septemnbre 2018)_  
+**Développeur (Stage)** @ [Ipeos](https://www.ipeos.net/) _(juin 2018 - septemnbre 2018)_  
 
 
-**Développeur | Stage** @ PBO _(juin 2017 - juillet 2017)_
+**Développeur (Stage)** @ PBO _(juin 2017 - juillet 2017)_
 <!-- ## À coté  -->
 
 ## Diplôme et Formations
