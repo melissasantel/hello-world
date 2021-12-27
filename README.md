@@ -4,7 +4,7 @@ _Ingénieure Cognitique basée à Bordeaux, France_
 
 [LinkedIn](https://www.linkedin.com/in/melissa-santel/) / [Github](https://github.com/melissasantel) <!-- / [Site Web]() / [Behance](https://www.behance.net/mlissasantel) / [Dribbble](https://dribbble.com/MelissaSantel) -->
 
-## Expériences Professionnelles 📄
+## 📄 Expériences Professionnelles
 **Ingénieure Cognitique** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
 Développeur de solutions à destination des industries  
 - Amélioration continue d'un outil de digitalisation de kanban 
@@ -50,7 +50,7 @@ Agence de développement de solution de communication
 
 <!-- ## À coté  -->
 
-## Diplôme et Formations 👩‍🎓
+## 👩‍🎓 Diplôme et Formations
 **Formation Robotique & Apprentissage**  
 [École Nationale Supérieure d’électronique, informatique, télécommunications, mathématique et mécanique (ENSEIRB - MATMECA)](https://enseirb-matmeca.bordeaux-inp.fr/fr) - Talence, France _(2019 - 2020)_
 
@@ -62,7 +62,7 @@ Agence de développement de solution de communication
 
 **Baccalauréat Scientifique**  
 [Lycée Polyvalent Charles Coeffin](https://charlescoeffin.lyc.ac-guadeloupe.fr/) - Baie-Mahault, Guadeloupe _(2010 - 2013)_
-## Langues 💬
+## 💬 Langues
 **Français** : Native
 
 **Créole** (Guadeloupéen & Martiniquais) : Native
