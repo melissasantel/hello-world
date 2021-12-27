@@ -2,7 +2,7 @@
 
 _Ingénieure Cognitique basée à Bordeaux, France_
 
-[LinkedIn](https://www.linkedin.com/in/melissa-santel/) / [Github](https://github.com/melissasantel) <!-- / [Site Web]() / [Behance]() / [Dribbble]() -->
+[LinkedIn](https://www.linkedin.com/in/melissa-santel/) / [Github](https://github.com/melissasantel) <!-- / [Site Web]() / [Behance](https://www.behance.net/mlissasantel) / [Dribbble](https://dribbble.com/MelissaSantel) -->
 
 ## Expériences Professionnelles 📄
 **Ingénieure Cognitique** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
@@ -47,6 +47,7 @@ Agence de développement de solution de communication
 - Réalisation formulaire de réservation de mouillages et enregistrement en base de donnée
 - Apprentissage du framework Wordpress à travers la réalisation d'un site web pour un événement local (Route du Rhum)
 - **Technologie utilisées :** CSS, HTML, PHP, SQL
+
 <!-- ## À coté  -->
 
 ## Diplôme et Formations 👩‍🎓
@@ -61,9 +62,9 @@ Agence de développement de solution de communication
 ## Langues 💬
 **Français** : Native
 
-**Créole** (Guadelopéen & Martiniquais) : Native
+**Créole** (Guadeloupéen & Martiniquais) : Native
 
-**Anglais** : Niveau B2 (TOEIC :)
+**Anglais** : Niveau B2 (TOEIC : 830)
 
 **Espagnol** : Niveau A2
 
