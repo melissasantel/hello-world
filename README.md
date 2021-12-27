@@ -6,46 +6,46 @@ _Ingénieure Cognitique basée à Bordeaux, France_
 
 ## Expériences Professionnelles
 **Ingénieure Cognitique** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
-Développeur de solutions à destination des industries
-- Développement d'interface de communication AGV 
-- Développement d'IoT industriel (LoraWan - EnOcean)
+Développeur de solutions à destination des industries  
 - Amélioration continue d'un outil de digitalisation de kanban 
 - Amélioration continue d'un MES 
+- Développement d'IoT industriels (LoraWan - EnOcean)
+- Développement d'interfaces de communication AGV 
 - Développemnt front-end et back-end
 - **Technologies utilisées :** VueJS, Python, Flask, SqlAchemy, LoraWan, EnOcean, UWB, Docker
 
 **Ingénieure (Alternance)**  @ [AIO](https://aio.eu/fr/) _(septembre 2019 - septembre 2020)_  
-Développeur de solutions à destination des industries
-- Travaille sur le projet Numii, permettant d’étudier les mauvaises postures sur un poste de travail, pouvant entrainer des troubles musculosquelettiques.
+Développeur de solutions à destination des industries  
+- Travail sur le projet Numii, permettant d’étudier les mauvaises postures sur un poste de travail, pouvant entrainer des troubles musculosquelettiques.
 
 
 **Développeur (Stage)** @ [Ullo World](https://ullo-world.fr/) _(avril 2019 - juillet 2019)_  
-Développement de thérapie digitale
+Développement de thérapie digitale  
 - Construction guidée de prototypes électroniques
 - Développement d’univers graphiques sur Unity
 - Modélisation 3D et impression 3D 
 - Missions de terrains dans des établissements partenaires.
 
 **Développeur (Stage)** @ [Newmips](https://www.newmips.com/) _(novembre 2018 - mars 2019)_  
-Entrepise de dévoloppement logiciel
-- Réalisation de montées de versions de logiciels métiers en utilisant l’outils dédié de l’entreprise.
+Entreprise de dévoloppement logiciel  
+- Réalisation de montées de versions de logiciels métiers en utilisant l’outil dédié de l’entreprise (Newmips).
 - **Technologies utilisées :** NodeJS
 
-**Développeur (Stage)** @ [Ipeos](https://www.ipeos.net/) _(juin 2018 - septemnbre 2018)_  
-Agence de full service web et digital
+**Développeur (Stage)** @ [Ipeos](https://www.ipeos.net/) _(juin 2018 - septembre 2018)_  
+Agence de full service web et digital  
 - Rédaction de cahier des charges et de spécifications sur un projet de portail touristique
 - Réalisation d'un plugin pour le framework SPIP
 - Contribution au développement d'un site web avec le framework Django
-- Développement d'un chatbot intégrable 
-- Développement d'un bandeau quand au norme RGPD
+- Développement d'un chatbot intégrable
+- Développement d'un bandeau intégrable pour informer des normes RGPD
 - **Technologies utilisées :** Python, SPIP, Docker, HTML, CSS
 - **Compétences acquises :** Contact client, compréhension et spécification des besoins client, UX
 
 
 **Développeur (Stage)** @ PBO _(juin 2017 - juillet 2017)_  
-Agence de développement de solution de communication
-- Réalisation formulaire de réservation de mouillage et enregistrement en base de donnée
-- Apprentissage du framework Wordpress à travers la réalisation d'un site web pour un événement local
+Agence de développement de solution de communication  
+- Réalisation formulaire de réservation de mouillages et enregistrement en base de donnée
+- Apprentissage du framework Wordpress à travers la réalisation d'un site web pour un événement local (Route du Rhum)
 - **Technologie utilisées :** CSS, HTML, PHP, SQL
 <!-- ## À coté  -->
 
