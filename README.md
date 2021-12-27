@@ -51,6 +51,9 @@ Agence de développement de solution de communication
 <!-- ## À coté  -->
 
 ## Diplôme et Formations 👩‍🎓
+**Formation Robotique & Apprentissage**  
+[École Nationale Supérieure d’électronique, informatique, télécommunications, mathématique et mécanique (ENSEIRB - MATMECA)](https://enseirb-matmeca.bordeaux-inp.fr/fr) - Talence, France _(2019 - 2020)_
+
 **Ingénieure Cognitique**  
 [École Nationale Supérieure de Cognitique (ENSC)](https://ensc.bordeaux-inp.fr/fr) - Talence, France _(2016 - 2020)_
 
