@@ -1,11 +1,11 @@
 # Mélissa Santel
 
-_Ingénieure Cogniticienne basée à Bordeaux, France_
+_Ingénieure en Cognitique basée à Bordeaux, France_
 
 [LinkedIn](https://www.linkedin.com/in/melissa-santel/) / [Github](https://github.com/melissasantel) <!-- / [Site Web]() / [Behance](https://www.behance.net/mlissasantel) / [Dribbble](https://dribbble.com/MelissaSantel) -->
 
 ## 📄 Expériences Professionnelles
-**Ingénieure Cogniticienne & Robotique (CDI)** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
+**Ingénieure en Cognitique & Robotique (CDI)** @ [AIO](https://aio.eu/fr/) _(octobre 2020 - Aujourd'hui)_  
 Développeur de solutions à destination des industries  
 - Direction d'un projet de suivi de colis à travers la méthode de Kanban et sa digitalisation
 - Amélioration continue d'un outil de digitalisation de kanban 
@@ -20,11 +20,16 @@ Développeur de solutions à destination des industries
 - **Environnements utilisés :** Linux, MacOS
 - **Compétences développées :** Test interface, PWA, Conteneurisation, Mise en place de Cron/Daemon, Git hooks
 
-**Ingénieure (Contrat de profesionnalisation)**  @ [AIO](https://aio.eu/fr/) _(septembre 2019 - septembre 2020)_  
+**Développeuse Full-Stack (Contrat de profesionnalisation)**  @ [AIO](https://aio.eu/fr/) _(septembre 2019 - septembre 2020)_  
 Développeur de solutions à destination des industries  
 - Travail sur le projet Numii, permettant d’étudier les mauvaises postures sur un poste de travail, pouvant entrainer des troubles musculosquelettiques.
+- Analyse des méthodes de calcule des scores RULA et REBA basée sur MGD et MGI des corps humains
+- Étude de correction à partir de calcule de vecteurs 
 - Développement application mobile de suivit de postures
-- **Technologies utilisées :** Framework: VueJS, Flask -  ORM:  SqlAchemy - Base de données : PostgreSQL, InfluxDB, Redis -  Ops : Docker
+- Mise en place d'une zone de mouvement de sureté (strike zone) visible sur l'interface
+- Traitement asynchrone des images envoyées au back à travers une WebSocket durant la prise de scène
+- Amélioration continue d'un outil de digitalisation de kanban 
+- **Technologies utilisées :** Framework: VueJS, Flask -  ORM:  SqlAchemy - Task queue : Celery - Base de données : PostgreSQL, InfluxDB, Redis -  Ops : Docker
 - **Langages utilisés :** Python, C++, JavaScript
 - **Compétences développées :** Déploiement CI/CD (Gitlab), Automatisation test unitaire (Pytest)
 
@@ -93,39 +98,3 @@ Agence de développement de solution de communication
 **Anglais** : Niveau B2 (TOEIC : 830)
 
 **Espagnol** : Niveau A2
-
-<!-- You can use the [editor on GitHub](https://github.com/melissasantel/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissasantel/hello-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
